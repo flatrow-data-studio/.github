@@ -43,7 +43,7 @@ Every Actor returns one flat row per hotel, listing, product or review, with the
 
 | Actor | What you get | Price |
 |---|---|---|
-| [Price Comparison: AliExpress, eBay, Walmart, Etsy](https://apify.com/myth84/marketplace-price-compare-scraper) | One keyword, one table with the same columns on every marketplace, plus the lowest, median and highest price per marketplace. | from $1.29 / 1,000 products |
+| [Price Comparison: Amazon, AliExpress, eBay & more](https://apify.com/myth84/marketplace-price-compare-scraper) | One keyword on Amazon, AliExpress, eBay, Walmart and Etsy in one run: one table with the same columns on every marketplace, plus the lowest, median and highest price per marketplace. | from $1.29 / 1,000 products |
 
 ## Python examples
 
@@ -61,7 +61,7 @@ Small, MIT-licensed scripts that call the Actors with the official `apify-client
 Ready-made Apify MCP server configurations: one URL that connects several Actors to Claude, ChatGPT, Cursor or VS Code, a system prompt that tells the agent which tool answers which question, and test prompts.
 
 - [Hotel price agent](https://github.com/flatrow-data-studio/mcp-kits/blob/main/hotel-price-agent.md): Booking.com, Google Hotels, Agoda, Expedia and Airbnb.
-- [E-commerce price agent](https://github.com/flatrow-data-studio/mcp-kits/blob/main/ecommerce-price-agent.md): Amazon, AliExpress, eBay, Walmart, Etsy and the multi-marketplace comparison.
+- [E-commerce price agent](https://github.com/flatrow-data-studio/mcp-kits/blob/main/ecommerce-price-agent.md): Amazon, AliExpress, eBay, Walmart and Etsy, one by one or compared in one run.
 
 ## Data and support
 
